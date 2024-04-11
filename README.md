@@ -1,4 +1,4 @@
-# Repository Name
+# JAVA CLASS 2
 
 Welcome to the repository for Samantha's java classes !
 
